@@ -1,0 +1,1187 @@
+{
+  "devices": [
+    {
+      "name": "Zenfone 2 (1080p)",
+      "type": "smartphone",
+      "codename": "Z00A",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/Z00A"
+    },
+    {
+      "name": "Benefit A3",
+      "type": "smartphone",
+      "codename": "peach",
+      "manufacturer": "ARK",
+      "url": "https://wiki.lineageos.org/devices/peach"
+    },
+    {
+      "name": "Zenfone 2 (720p)",
+      "type": "smartphone",
+      "codename": "Z008",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/Z008"
+    },
+    {
+      "name": "Zenfone 2 Laser/Selfie (1080p)",
+      "type": "smartphone",
+      "codename": "Z00T",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/Z00T"
+    },
+    {
+      "name": "Nexus 5",
+      "type": "smartphone",
+      "codename": "hammerhead",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/hammerhead"
+    },
+    {
+      "name": "Android One 2nd Gen",
+      "type": "smartphone",
+      "codename": "seed",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/seed"
+    },
+    {
+      "name": "Galaxy Nexus LTE (Sprint)",
+      "type": "smartphone",
+      "codename": "toroplus",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/toroplus"
+    },
+    {
+      "name": "Nexus 6",
+      "type": "smartphone",
+      "codename": "shamu",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/shamu"
+    },
+    {
+      "name": "Nexus 5X",
+      "type": "smartphone",
+      "codename": "bullhead",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/bullhead"
+    },
+    {
+      "name": "Galaxy Nexus LTE (Verizon)",
+      "type": "smartphone",
+      "codename": "toro",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/toro"
+    },
+    {
+      "name": "DROID Incredible 4G LTE",
+      "type": "smartphone",
+      "codename": "fireball",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/fireball"
+    },
+    {
+      "name": "One (GSM)",
+      "type": "smartphone",
+      "codename": "m7",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/m7"
+    },
+    {
+      "name": "Nexus 7 (Wi-Fi, 2013 version)",
+      "type": "tablet",
+      "codename": "flo",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/flo"
+    },
+    {
+      "name": "One A9 (GSM International)",
+      "type": "smartphone",
+      "codename": "hiaeuhl",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/hiaeuhl"
+    },
+    {
+      "name": "G2 (International)",
+      "type": "smartphone",
+      "codename": "d802",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d802"
+    },
+    {
+      "name": "One M9 (Verizon)",
+      "type": "smartphone",
+      "codename": "himawl",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/himawl"
+    },
+    {
+      "name": "Honor 4x (China Telecom)",
+      "type": "smartphone",
+      "codename": "che10",
+      "manufacturer": "Huawei",
+      "url": "https://wiki.lineageos.org/devices/che10"
+    },
+    {
+      "name": "G3 (Sprint)",
+      "type": "smartphone",
+      "codename": "ls990",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/ls990"
+    },
+    {
+      "name": "G2 (AT&T)",
+      "type": "smartphone",
+      "codename": "d800",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d800"
+    },
+    {
+      "name": "G3 (Canada)",
+      "type": "smartphone",
+      "codename": "d852",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d852"
+    },
+    {
+      "name": "G4 (International)",
+      "type": "smartphone",
+      "codename": "h815",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h815"
+    },
+    {
+      "name": "V20 (AT&T)",
+      "type": "smartphone",
+      "codename": "h910",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h910"
+    },
+    {
+      "name": "V20 (Sprint)",
+      "type": "smartphone",
+      "codename": "ls997",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/ls997"
+    },
+    {
+      "name": "V20 (Verizon)",
+      "type": "smartphone",
+      "codename": "vs995",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/vs995"
+    },
+    {
+      "name": "G3 (Korea)",
+      "type": "smartphone",
+      "codename": "f400",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/f400"
+    },
+    {
+      "name": "G3 (International)",
+      "type": "smartphone",
+      "codename": "d855",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d855"
+    },
+    {
+      "name": "Vibe Z2 Pro",
+      "type": "smartphone",
+      "codename": "kingdom",
+      "manufacturer": "Lenovo",
+      "url": "https://wiki.lineageos.org/devices/kingdom"
+    },
+    {
+      "name": "Moto E",
+      "type": "smartphone",
+      "codename": "condor",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/condor"
+    },
+    {
+      "name": "G5 (International)",
+      "type": "smartphone",
+      "codename": "h850",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h850"
+    },
+    {
+      "name": "Moto G 2014",
+      "type": "smartphone",
+      "codename": "titan",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/titan"
+    },
+    {
+      "name": "Moto G3 Turbo",
+      "type": "smartphone",
+      "codename": "merlin",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/merlin"
+    },
+    {
+      "name": "V20 (GSM Unlocked)",
+      "type": "smartphone",
+      "codename": "us996",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/us996"
+    },
+    {
+      "name": "Le Max2",
+      "type": "smartphone",
+      "codename": "x2",
+      "manufacturer": "LeEco",
+      "url": "https://wiki.lineageos.org/devices/x2"
+    },
+    {
+      "name": "Robin",
+      "type": "smartphone",
+      "codename": "ether",
+      "manufacturer": "Nextbit",
+      "url": "https://wiki.lineageos.org/devices/ether"
+    },
+    {
+      "name": "Find 7a",
+      "type": "smartphone",
+      "codename": "find7",
+      "manufacturer": "OPPO",
+      "url": "https://wiki.lineageos.org/devices/find7"
+    },
+    {
+      "name": "Moto E 2015",
+      "type": "smartphone",
+      "codename": "otus",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/otus"
+    },
+    {
+      "name": "Droid Bionic",
+      "type": "smartphone",
+      "codename": "targa",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/targa"
+    },
+    {
+      "name": "Galaxy Note 8.0 (GSM)",
+      "type": "tablet",
+      "codename": "n5100",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/n5100"
+    },
+    {
+      "name": "Moto G4",
+      "type": "smartphone",
+      "codename": "athene",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/athene"
+    },
+    {
+      "name": "Galaxy Note 10.1 Wi-Fi (2014)",
+      "type": "tablet",
+      "codename": "n1awifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/n1awifi"
+    },
+    {
+      "name": "Galaxy S III (Sprint)",
+      "type": "smartphone",
+      "codename": "d2spr",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/d2spr"
+    },
+    {
+      "name": "Galaxy S III (T-Mobile)",
+      "type": "smartphone",
+      "codename": "d2tmo",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/d2tmo"
+    },
+    {
+      "name": "Moto X Pure Edition/Style (2015)",
+      "type": "smartphone",
+      "codename": "clark",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/clark"
+    },
+    {
+      "name": "N3",
+      "type": "smartphone",
+      "codename": "n3",
+      "manufacturer": "OPPO",
+      "url": "https://wiki.lineageos.org/devices/n3"
+    },
+    {
+      "name": "Galaxy Note 10.1 2014 (LTE)",
+      "type": "tablet",
+      "codename": "lt03lte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/lt03lte"
+    },
+    {
+      "name": "Galaxy Note 8.0 (LTE)",
+      "type": "tablet",
+      "codename": "n5120",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/n5120"
+    },
+    {
+      "name": "Galaxy Note 3 (International 3G)",
+      "type": "smartphone",
+      "codename": "ha3g",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/ha3g"
+    },
+    {
+      "name": "Galaxy Note 8.0 (Wi-Fi)",
+      "type": "tablet",
+      "codename": "n5110",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/n5110"
+    },
+    {
+      "name": "Galaxy S III (International)",
+      "type": "smartphone",
+      "codename": "i9300",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/i9300"
+    },
+    {
+      "name": "Galaxy S III (LTE / International)",
+      "type": "smartphone",
+      "codename": "i9305",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/i9305"
+    },
+    {
+      "name": "Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)",
+      "type": "tablet",
+      "codename": "espresso3g",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/espresso3g"
+    },
+    {
+      "name": "Galaxy S4 Mini (International Dual SIM)",
+      "type": "smartphone",
+      "codename": "serranodsdd",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/serranodsdd"
+    },
+    {
+      "name": "Galaxy S5 (Sprint)",
+      "type": "smartphone",
+      "codename": "kltespr",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltespr"
+    },
+    {
+      "name": "Galaxy S5 (Korea)",
+      "type": "smartphone",
+      "codename": "kltekor",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltekor"
+    },
+    {
+      "name": "Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)",
+      "type": "tablet",
+      "codename": "espressowifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/espressowifi"
+    },
+    {
+      "name": "Galaxy Tab S2 9.7 (Wi-Fi)",
+      "type": "tablet",
+      "codename": "gts210wifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/gts210wifi"
+    },
+    {
+      "name": "Swift",
+      "type": "smartphone",
+      "codename": "crackling",
+      "manufacturer": "Wileyfox",
+      "url": "https://wiki.lineageos.org/devices/crackling"
+    },
+    {
+      "name": "Redmi 2",
+      "type": "smartphone",
+      "codename": "wt88047",
+      "manufacturer": "Wingtech",
+      "url": "https://wiki.lineageos.org/devices/wt88047"
+    },
+    {
+      "name": "Redmi Note 3",
+      "type": "smartphone",
+      "codename": "kenzo",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/kenzo"
+    },
+    {
+      "name": "Galaxy Tab S 10.5 Wi-Fi",
+      "type": "tablet",
+      "codename": "chagallwifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/chagallwifi"
+    },
+    {
+      "name": "Galaxy Tab S 8.4 Wi-Fi",
+      "type": "tablet",
+      "codename": "klimtwifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/klimtwifi"
+    },
+    {
+      "name": "Galaxy Tab S2 9.7 Wi-Fi (2016)",
+      "type": "tablet",
+      "codename": "gts210vewifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/gts210vewifi"
+    },
+    {
+      "name": "Axon 7",
+      "type": "smartphone",
+      "codename": "axon7",
+      "manufacturer": "ZTE",
+      "url": "https://wiki.lineageos.org/devices/axon7"
+    },
+    {
+      "name": "Mi Max",
+      "type": "smartphone",
+      "codename": "hydrogen",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/hydrogen"
+    },
+    {
+      "name": "Redmi 3/Prime",
+      "type": "smartphone",
+      "codename": "ido",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/ido"
+    },
+    {
+      "name": "Yunique",
+      "type": "smartphone",
+      "codename": "jalebi",
+      "manufacturer": "YU",
+      "url": "https://wiki.lineageos.org/devices/jalebi"
+    },
+    {
+      "name": "Yuphoria",
+      "type": "smartphone",
+      "codename": "lettuce",
+      "manufacturer": "YU",
+      "url": "https://wiki.lineageos.org/devices/lettuce"
+    },
+    {
+      "name": "Z1",
+      "type": "smartphone",
+      "codename": "ham",
+      "manufacturer": "ZUK",
+      "url": "https://wiki.lineageos.org/devices/ham"
+    },
+    {
+      "name": "ZenPad 8.0 (Z380KL)",
+      "type": "tablet",
+      "codename": "P024",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/P024"
+    },
+    {
+      "name": "Nexus 4",
+      "type": "smartphone",
+      "codename": "mako",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/mako"
+    },
+    {
+      "name": "Zenfone 2 Laser (720p)",
+      "type": "smartphone",
+      "codename": "Z00L",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/Z00L"
+    },
+    {
+      "name": "Zenfone 2 (ZE500CL)",
+      "type": "smartphone",
+      "codename": "Z00D",
+      "manufacturer": "Asus",
+      "url": "https://wiki.lineageos.org/devices/Z00D"
+    },
+    {
+      "name": "Aquaris X5",
+      "type": "smartphone",
+      "codename": "paella",
+      "manufacturer": "BQ",
+      "url": "https://wiki.lineageos.org/devices/paella"
+    },
+    {
+      "name": "One (M8) Dual SIM",
+      "type": "smartphone",
+      "codename": "m8d",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/m8d"
+    },
+    {
+      "name": "Galaxy Nexus GSM",
+      "type": "smartphone",
+      "codename": "maguro",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/maguro"
+    },
+    {
+      "name": "Nexus 10",
+      "type": "tablet",
+      "codename": "manta",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/manta"
+    },
+    {
+      "name": "One (Verizon)",
+      "type": "smartphone",
+      "codename": "m7vzw",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/m7vzw"
+    },
+    {
+      "name": "10",
+      "type": "smartphone",
+      "codename": "pme",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/pme"
+    },
+    {
+      "name": "Nexus 7 (LTE, 2013 version)",
+      "type": "smartphone",
+      "codename": "deb",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/deb"
+    },
+    {
+      "name": "Nexus 6P",
+      "type": "smartphone",
+      "codename": "angler",
+      "manufacturer": "Google",
+      "url": "https://wiki.lineageos.org/devices/angler"
+    },
+    {
+      "name": "G Pad 8.3",
+      "type": "tablet",
+      "codename": "v500",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/v500"
+    },
+    {
+      "name": "One A9 (GSM US)",
+      "type": "smartphone",
+      "codename": "hiaeul",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/hiaeul"
+    },
+    {
+      "name": "Honor 4/4X (Unified)",
+      "type": "smartphone",
+      "codename": "cherry",
+      "manufacturer": "Huawei",
+      "url": "https://wiki.lineageos.org/devices/cherry"
+    },
+    {
+      "name": "One M9 (GSM)",
+      "type": "smartphone",
+      "codename": "himaul",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/himaul"
+    },
+    {
+      "name": "Ascend Mate 2 4G",
+      "type": "smartphone",
+      "codename": "mt2",
+      "manufacturer": "Huawei",
+      "url": "https://wiki.lineageos.org/devices/mt2"
+    },
+    {
+      "name": "G Pad 7.0 (LTE)",
+      "type": "tablet",
+      "codename": "v410",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/v410"
+    },
+    {
+      "name": "G Pad 8.0 (Wi-Fi)",
+      "type": "tablet",
+      "codename": "v480",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/v480"
+    },
+    {
+      "name": "G2 (T-Mobile)",
+      "type": "smartphone",
+      "codename": "d801",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d801"
+    },
+    {
+      "name": "G3 S",
+      "type": "smartphone",
+      "codename": "jag3gds",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/jag3gds"
+    },
+    {
+      "name": "One Max (GSM)",
+      "type": "smartphone",
+      "codename": "t6",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/t6"
+    },
+    {
+      "name": "G2 (Canadian)",
+      "type": "smartphone",
+      "codename": "d803",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d803"
+    },
+    {
+      "name": "One Max (Verizon)",
+      "type": "smartphone",
+      "codename": "t6vzw",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/t6vzw"
+    },
+    {
+      "name": "Aquaris E5 4G / Aquaris E5s",
+      "type": "smartphone",
+      "codename": "vegetalte",
+      "manufacturer": "BQ",
+      "url": "https://wiki.lineageos.org/devices/vegetalte"
+    },
+    {
+      "name": "G3 (T-Mobile)",
+      "type": "smartphone",
+      "codename": "d851",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d851"
+    },
+    {
+      "name": "G2 Mini",
+      "type": "smartphone",
+      "codename": "g2m",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/g2m"
+    },
+    {
+      "name": "G3 (AT&T)",
+      "type": "smartphone",
+      "codename": "d850",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/d850"
+    },
+    {
+      "name": "G3 (Verizon)",
+      "type": "smartphone",
+      "codename": "vs985",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/vs985"
+    },
+    {
+      "name": "G4 (T-Mobile)",
+      "type": "smartphone",
+      "codename": "h811",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h811"
+    },
+    {
+      "name": "G3 Beat",
+      "type": "smartphone",
+      "codename": "jagnm",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/jagnm"
+    },
+    {
+      "name": "G5 (T-Mobile)",
+      "type": "smartphone",
+      "codename": "h830",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h830"
+    },
+    {
+      "name": "Optimus L70",
+      "type": "smartphone",
+      "codename": "w5",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/w5"
+    },
+    {
+      "name": "L90",
+      "type": "smartphone",
+      "codename": "w7",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/w7"
+    },
+    {
+      "name": "Droid 4",
+      "type": "devices_other",
+      "codename": "maserati",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/maserati"
+    },
+    {
+      "name": "Moto G 2014 LTE",
+      "type": "smartphone",
+      "codename": "thea",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/thea"
+    },
+    {
+      "name": "Moto G 4G",
+      "type": "smartphone",
+      "codename": "peregrine",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/peregrine"
+    },
+    {
+      "name": "Le 2",
+      "type": "smartphone",
+      "codename": "s2",
+      "manufacturer": "LeEco",
+      "url": "https://wiki.lineageos.org/devices/s2"
+    },
+    {
+      "name": "Honor 5X",
+      "type": "smartphone",
+      "codename": "kiwi",
+      "manufacturer": "Huawei",
+      "url": "https://wiki.lineageos.org/devices/kiwi"
+    },
+    {
+      "name": "V20 (T-Mobile)",
+      "type": "smartphone",
+      "codename": "h918",
+      "manufacturer": "LG",
+      "url": "https://wiki.lineageos.org/devices/h918"
+    },
+    {
+      "name": "Le Pro3",
+      "type": "smartphone",
+      "codename": "zl1",
+      "manufacturer": "LeEco",
+      "url": "https://wiki.lineageos.org/devices/zl1"
+    },
+    {
+      "name": "Moto E 2015 LTE",
+      "type": "smartphone",
+      "codename": "surnia",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/surnia"
+    },
+    {
+      "name": "Droid RAZR/RAZR MAXX (CDMA)",
+      "type": "smartphone",
+      "codename": "spyder",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/spyder"
+    },
+    {
+      "name": "Moto G",
+      "type": "smartphone",
+      "codename": "falcon",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/falcon"
+    },
+    {
+      "name": "Moto X 2014",
+      "type": "smartphone",
+      "codename": "victara",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/victara"
+    },
+    {
+      "name": "Shield Portable",
+      "type": "devices_other",
+      "codename": "roth",
+      "manufacturer": "Nvidia",
+      "url": "https://wiki.lineageos.org/devices/roth"
+    },
+    {
+      "name": "Shield Tablet",
+      "type": "tablet",
+      "codename": "shieldtablet",
+      "manufacturer": "Nvidia",
+      "url": "https://wiki.lineageos.org/devices/shieldtablet"
+    },
+    {
+      "name": "R7 Plus",
+      "type": "smartphone",
+      "codename": "r7plus",
+      "manufacturer": "OPPO",
+      "url": "https://wiki.lineageos.org/devices/r7plus"
+    },
+    {
+      "name": "OnePlus X",
+      "type": "smartphone",
+      "codename": "onyx",
+      "manufacturer": "OnePlus",
+      "url": "https://wiki.lineageos.org/devices/onyx"
+    },
+    {
+      "name": "Galaxy Note 2 (LTE)",
+      "type": "smartphone",
+      "codename": "t0lte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/t0lte"
+    },
+    {
+      "name": "OnePlus 3 / 3T",
+      "type": "smartphone",
+      "codename": "oneplus3",
+      "manufacturer": "OnePlus",
+      "url": "https://wiki.lineageos.org/devices/oneplus3"
+    },
+    {
+      "name": "RAZR/RAZR MAXX (GSM)",
+      "type": "smartphone",
+      "codename": "umts_spyder",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/umts_spyder"
+    },
+    {
+      "name": "Moto G4 Play",
+      "type": "smartphone",
+      "codename": "harpia",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/harpia"
+    },
+    {
+      "name": "Galaxy S4 Mini (International 3G)",
+      "type": "smartphone",
+      "codename": "serrano3gxx",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/serrano3gxx"
+    },
+    {
+      "name": "Moto X",
+      "type": "smartphone",
+      "codename": "ghost",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/ghost"
+    },
+    {
+      "name": "R5/R5s (International)",
+      "type": "smartphone",
+      "codename": "r5",
+      "manufacturer": "OPPO",
+      "url": "https://wiki.lineageos.org/devices/r5"
+    },
+    {
+      "name": "Photon Q 4G LTE",
+      "type": "devices_other",
+      "codename": "xt897",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/xt897"
+    },
+    {
+      "name": "OnePlus 2",
+      "type": "smartphone",
+      "codename": "oneplus2",
+      "manufacturer": "OnePlus",
+      "url": "https://wiki.lineageos.org/devices/oneplus2"
+    },
+    {
+      "name": "OnePlus One",
+      "type": "smartphone",
+      "codename": "bacon",
+      "manufacturer": "OnePlus",
+      "url": "https://wiki.lineageos.org/devices/bacon"
+    },
+    {
+      "name": "Galaxy S4 (Verizon)",
+      "type": "smartphone",
+      "codename": "jfltevzw",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/jfltevzw"
+    },
+    {
+      "name": "Galaxy S4 LTE-A (GT-I9506)",
+      "type": "smartphone",
+      "codename": "ks01lte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/ks01lte"
+    },
+    {
+      "name": "Galaxy S III (AT&T)",
+      "type": "smartphone",
+      "codename": "d2att",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/d2att"
+    },
+    {
+      "name": "Moto Z",
+      "type": "smartphone",
+      "codename": "griffin",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/griffin"
+    },
+    {
+      "name": "Galaxy S7",
+      "type": "smartphone",
+      "codename": "herolte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/herolte"
+    },
+    {
+      "name": "Galaxy S7 Edge",
+      "type": "smartphone",
+      "codename": "hero2lte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/hero2lte"
+    },
+    {
+      "name": "Galaxy S5",
+      "type": "smartphone",
+      "codename": "klte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/klte"
+    },
+    {
+      "name": "Xperia T",
+      "type": "smartphone",
+      "codename": "mint",
+      "manufacturer": "Sony",
+      "url": "https://wiki.lineageos.org/devices/mint"
+    },
+    {
+      "name": "Galaxy S II",
+      "type": "smartphone",
+      "codename": "i9100",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/i9100"
+    },
+    {
+      "name": "Moto X Play",
+      "type": "smartphone",
+      "codename": "lux",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/lux"
+    },
+    {
+      "name": "Moto Z Play",
+      "type": "smartphone",
+      "codename": "addison",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/addison"
+    },
+    {
+      "name": "Find 7s",
+      "type": "smartphone",
+      "codename": "find7s",
+      "manufacturer": "OPPO",
+      "url": "https://wiki.lineageos.org/devices/find7s"
+    },
+    {
+      "name": "Galaxy S5 (Vodafone)",
+      "type": "smartphone",
+      "codename": "kltedv",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltedv"
+    },
+    {
+      "name": "Galaxy S III (Verizon)",
+      "type": "smartphone",
+      "codename": "d2vzw",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/d2vzw"
+    },
+    {
+      "name": "Galaxy S5 (China)",
+      "type": "smartphone",
+      "codename": "kltechn",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltechn"
+    },
+    {
+      "name": "Redmi 1S",
+      "type": "smartphone",
+      "codename": "armani",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/armani"
+    },
+    {
+      "name": "Aquaris M5",
+      "type": "smartphone",
+      "codename": "piccolo",
+      "manufacturer": "BQ",
+      "url": "https://wiki.lineageos.org/devices/piccolo"
+    },
+    {
+      "name": "One (M8)",
+      "type": "smartphone",
+      "codename": "m8",
+      "manufacturer": "HTC",
+      "url": "https://wiki.lineageos.org/devices/m8"
+    },
+    {
+      "name": "Vibe K5 / K5 Plus",
+      "type": "smartphone",
+      "codename": "A6020",
+      "manufacturer": "Lenovo",
+      "url": "https://wiki.lineageos.org/devices/A6020"
+    },
+    {
+      "name": "Moto G 2015",
+      "type": "smartphone",
+      "codename": "osprey",
+      "manufacturer": "Motorola",
+      "url": "https://wiki.lineageos.org/devices/osprey"
+    },
+    {
+      "name": "Galaxy Note 2 (Korea)",
+      "type": "smartphone",
+      "codename": "t0ltekor",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/t0ltekor"
+    },
+    {
+      "name": "Galaxy S4 Mini (International LTE)",
+      "type": "smartphone",
+      "codename": "serranoltexx",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/serranoltexx"
+    },
+    {
+      "name": "Galaxy S4 (International LTE)",
+      "type": "smartphone",
+      "codename": "jfltexx",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/jfltexx"
+    },
+    {
+      "name": "Xperia TX",
+      "type": "smartphone",
+      "codename": "hayabusa",
+      "manufacturer": "Sony",
+      "url": "https://wiki.lineageos.org/devices/hayabusa"
+    },
+    {
+      "name": "Xperia M",
+      "type": "smartphone",
+      "codename": "nicki",
+      "manufacturer": "Sony",
+      "url": "https://wiki.lineageos.org/devices/nicki"
+    },
+    {
+      "name": "Galaxy Tab PRO 10.1",
+      "type": "tablet",
+      "codename": "n2awifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/n2awifi"
+    },
+    {
+      "name": "Galaxy S5 LTE-A",
+      "type": "smartphone",
+      "codename": "lentislte",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/lentislte"
+    },
+    {
+      "name": "Galaxy Tab Pro 8.4",
+      "type": "tablet",
+      "codename": "mondrianwifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/mondrianwifi"
+    },
+    {
+      "name": "Galaxy S5 (AU)",
+      "type": "smartphone",
+      "codename": "kltekdi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltekdi"
+    },
+    {
+      "name": "Galaxy S5 Duos (China)",
+      "type": "smartphone",
+      "codename": "kltechnduo",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kltechnduo"
+    },
+    {
+      "name": "Galaxy S5 Plus",
+      "type": "smartphone",
+      "codename": "kccat6",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/kccat6"
+    },
+    {
+      "name": "Mi 3 / Mi 4",
+      "type": "smartphone",
+      "codename": "cancro",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/cancro"
+    },
+    {
+      "name": "Galaxy S5 Duos",
+      "type": "smartphone",
+      "codename": "klteduos",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/klteduos"
+    },
+    {
+      "name": "Galaxy Tab S2 9.7 (LTE)",
+      "type": "tablet",
+      "codename": "gts210ltexx",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/gts210ltexx"
+    },
+    {
+      "name": "Xperia SP",
+      "type": "smartphone",
+      "codename": "huashan",
+      "manufacturer": "Sony",
+      "url": "https://wiki.lineageos.org/devices/huashan"
+    },
+    {
+      "name": "Galaxy Tab 3 7.0 LTE",
+      "type": "tablet",
+      "codename": "lt02ltespr",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/lt02ltespr"
+    },
+    {
+      "name": "Storm",
+      "type": "smartphone",
+      "codename": "kipper",
+      "manufacturer": "Wileyfox",
+      "url": "https://wiki.lineageos.org/devices/kipper"
+    },
+    {
+      "name": "Yureka / Yureka Plus",
+      "type": "smartphone",
+      "codename": "tomato",
+      "manufacturer": "YU",
+      "url": "https://wiki.lineageos.org/devices/tomato"
+    },
+    {
+      "name": "Galaxy Tab S2 8.0 Wi-Fi (2016)",
+      "type": "tablet",
+      "codename": "gts28vewifi",
+      "manufacturer": "Samsung",
+      "url": "https://wiki.lineageos.org/devices/gts28vewifi"
+    },
+    {
+      "name": "Mi 5",
+      "type": "smartphone",
+      "codename": "gemini",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/gemini"
+    },
+    {
+      "name": "Mi 5s Plus",
+      "type": "smartphone",
+      "codename": "natrium",
+      "manufacturer": "Xiaomi",
+      "url": "https://wiki.lineageos.org/devices/natrium"
+    },
+    {
+      "name": "Xperia V",
+      "type": "smartphone",
+      "codename": "tsubasa",
+      "manufacturer": "Sony",
+      "url": "https://wiki.lineageos.org/devices/tsubasa"
+    }
+  ]
+}
