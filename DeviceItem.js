@@ -5,22 +5,23 @@ import React from "react";
 import {
   StyleSheet,
   Text,
-  View,
-  TextInput
+  View
 } from 'react-native';
-import Anchor from './Anchor';
 import Icon from 'react-native-vector-icons/MaterialIcons';
+import ButtonAnchor from './ButtonAnchor';
 
 class DeviceItem extends React.Component{
 
   render(){
     let device = this.props.device;
+    device.iconName = device.type.replace("_", "-");
+
 
     return (
-        <View>
-          <Anchor href={device.url} style={styles.wrapper}>
+        <ButtonAnchor href={device.url}>
+          <View style={styles.wrapper}>
             <View style={styles.iconWrapper}>
-              <Icon name={device.type} style={[styles.text, styles.icon]} />
+              <Icon name={device.iconName} style={[styles.text, styles.icon]} />
             </View>
             <View style={styles.textWrapper}>
               <Text style={[styles.text, styles.deviceName]} numberOfLines={1} ellipsizeMode="tail">{device.name}</Text>
@@ -28,8 +29,8 @@ class DeviceItem extends React.Component{
                 {device.manufacturer} <Text style={styles.codename}>({device.codename})</Text>
               </Text>
             </View>
-          </Anchor>
-        </View>
+          </View>
+        </ButtonAnchor>
     )
   }
 }
@@ -37,8 +38,8 @@ class DeviceItem extends React.Component{
 const styles = StyleSheet.create({
   wrapper: {
     marginVertical: 3,
+    marginHorizontal: 10,
     backgroundColor: "#222",
-    width: 400,
     flexDirection: "row",
     padding: 20,
     borderRadius: 10,

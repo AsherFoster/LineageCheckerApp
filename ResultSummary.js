@@ -4,7 +4,6 @@
 import React from "react";
 import {Text, View, StyleSheet} from "react-native";
 
-import "./HasResult.css";
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 class ResultSummary extends React.Component {
@@ -35,7 +34,28 @@ class ResultSummary extends React.Component {
 }
 
 const styles = StyleSheet.create({
-
+    wrapper: {
+      marginVertical: 3,
+      backgroundColor: "#222",
+      width: 400,
+      flexDirection: "row",
+      padding: 20,
+      borderRadius: 10,
+    },
+    icon: {
+      color: "#FFF",
+      fontSize: 50,
+      marginLeft: 10,
+      marginRight: 30
+    },
+    textWrapper: {
+      marginRight: 40,
+    },
+    text: {
+      color: "#FFF",
+      fontSize: 20,
+      lineHeight: 35
+    }
 });
 
 

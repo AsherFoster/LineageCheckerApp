@@ -3,7 +3,7 @@
  */
 import React from "react";
 import {
-  View,
+  Text,
   Linking
 } from 'react-native';
 
@@ -13,9 +13,9 @@ class Anchor extends React.Component{
   render(){
     let url = this.props.href;
     return (
-        <View onPress={() => Linking.openURL(url)} style={this.props.style}>
+        <Text onPress={() => Linking.openURL(url)} style={this.props.style}>
           {this.props.children}
-        </View>
+        </Text>
     )
   }
 }

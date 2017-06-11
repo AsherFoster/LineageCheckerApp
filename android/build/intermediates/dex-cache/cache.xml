@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_573a958c2a26a41b871ed510ae42607711bea073.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,30 +30,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_9ecc3edba39d88b14c70fdfb6c6f14b70fa23cf7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
         <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_0c0f6a02842d9a9f2062114716abc4a3ca9e25c8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b49be3e5dfdf287b20796011c07034a63c43f3b9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,6 +54,87 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_95aa6ceccf1a4484a1825fd055a03bb29b872711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_94f9c36f68510e30beb37150bc83c0aa91959ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_8f795f044a82bc3ab6d7907b41e5d6d7fbb16572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_31fd36f507390425c375cc69443e59447c4685ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/LineageCheckerApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/LineageCheckerApp-react-native-vector-icons-unspecified_805ca64abef904bfd5e4d3f089963c8b6b0a92bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c72acaf1d7502df9024857fdb5a504fe85dea0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5aedad5acd48c75eb974c929d529e83ac07737fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_573a958c2a26a41b871ed510ae42607711bea073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_9ecc3edba39d88b14c70fdfb6c6f14b70fa23cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b49be3e5dfdf287b20796011c07034a63c43f3b9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,33 +174,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_94f9c36f68510e30beb37150bc83c0aa91959ec6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_8f795f044a82bc3ab6d7907b41e5d6d7fbb16572.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_2ae01486bbf36749d33804eb20476f37638b29ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/asher/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -156,30 +183,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_31fd36f507390425c375cc69443e59447c4685ff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/LineageCheckerApp/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/LineageCheckerApp-react-native-vector-icons-unspecified_805ca64abef904bfd5e4d3f089963c8b6b0a92bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c72acaf1d7502df9024857fdb5a504fe85dea0ef.jar" />
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_2ae01486bbf36749d33804eb20476f37638b29ac.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,15 +207,6 @@
         revision="23.0.1"
         sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
         <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c50ab589d2e8bd18aa2d8c9c06e9b27f2de38e59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/asher/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/asher/Sites/LineageCheckerApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5aedad5acd48c75eb974c929d529e83ac07737fb.jar" />
     </item>
 
 </items>
